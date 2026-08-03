@@ -1,3 +1,6 @@
+
+<img width="600" height="235" alt="Banner" src="https://github.com/user-attachments/assets/04309d8f-9771-4413-bb53-0beb14c122fa" />
+
 # 🚛 URS No Extras v1.1.0
 
 A lightweight, standalone FiveM resource that automatically disables vehicle extras on configured vehicles.
