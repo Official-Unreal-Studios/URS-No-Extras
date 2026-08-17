@@ -1,5 +1,5 @@
 
-<img width="600" height="235" alt="Banner" src="./images/URS-No-Extras-V2-(1).png" />
+<img width="570" height="321" alt="URS-No Extras V2 (1)" src="https://github.com/user-attachments/assets/c67057bb-7778-475d-b975-c7ea6d78c099" />
 
 # 🚛 URS No Extras v1.1.0
 
