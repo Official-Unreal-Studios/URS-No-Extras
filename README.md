@@ -1,5 +1,7 @@
 
-<img width="570" height="321" alt="URS-No Extras V2 (1)" src="https://github.com/user-attachments/assets/c67057bb-7778-475d-b975-c7ea6d78c099" />
+<p align="center">
+  <img src="https://i.imgur.com/Han55yn.png" alt="GitHub Profile Header Generator Banner" width="100%">
+</p>
 
 # 🚛 URS No Extras v1.1.0
 
